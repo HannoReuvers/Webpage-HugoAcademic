@@ -4,9 +4,9 @@
 
 widget = "pages"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 120  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "My blog"
 subtitle = ""
 
 [content]
