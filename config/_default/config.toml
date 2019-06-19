@@ -7,6 +7,9 @@
 # Title of your site
 title = "Hanno Reuvers"
 
+# Place to publish the website
+publishDir = "docs"
+
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://hannoreuvers.github.io"
